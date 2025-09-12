@@ -14,7 +14,6 @@
 
 ## 🚀 À Propos de Moi
 
-- 🔭 Actuellement en développement sur **PrimeRank** - Suite de 24 outils SEO
 - 🌱 Expert en **Process Automatisés** avec 4+ années d'expérience
 - 💼 Spécialisé en **Growth Engineering** et transformation de données
 - 🎯 Objectif : Révolutionner l'analyse SEO et la croissance digitale

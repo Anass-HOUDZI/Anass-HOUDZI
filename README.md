@@ -20,6 +20,11 @@
 - 🎯 Objectif : Révolutionner l'analyse SEO et la croissance digitale
 - 📍 Basé en **France** 🇫🇷
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anasshoudzi/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:anass.houdzi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://anasshoudzi.vercel.app/)
+
+
 ## 🛠️ Stack Technique
 
 <div align="center">

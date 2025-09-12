@@ -75,13 +75,6 @@
 
 </div>
 
-## 📈 Activité de Contribution
-
-<div align="center">
-  
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anass-HOUDZI&theme=redical)
-  
-</div>
 
 ## 🎯 Expertises Clés
 
@@ -112,7 +105,7 @@ focus: "Data-driven growth"
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasshoudzi/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anass-HOUDZI)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-portfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anasshoudzi.vercel.app/)
   
 </div>
 

@@ -3,7 +3,7 @@
 
 <div>
   
-  ### 📊 Curieux et opérationnel, je transforme la data en croissance. 
+  ### Curieux et opérationnel, je transforme la data en croissance. 
   
 - Mise en place de pipelines automatisés
 - Développement de scrapers Python
@@ -13,15 +13,15 @@
   
 </div>
 
-## 🚀 À Propos de Moi
+## À Propos de Moi
 
 - Expert en **Process Automatisés**
 - Spécialisé en **Growth Engineering** et **Transformation de données**
-- Basé en **France** 🇫🇷
+- Basé en **France*🇫🇷* 
 
 
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 
 
-## 🌐 Connectons-nous
+## Connectons-nous
 
 <div align="center">
   

@@ -47,7 +47,6 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anass-HOUDZI&color=blueviolet&style=flat-square)
-</div>
 
   
 </div>

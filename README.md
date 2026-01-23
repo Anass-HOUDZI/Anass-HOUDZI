@@ -53,11 +53,7 @@
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anass-HOUDZI&theme=radical)
-  
-</div>
+
 
 ## 🏆 Projets Phares
 

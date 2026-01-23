@@ -9,7 +9,6 @@
 - Développement de scrapers Python
 - Setup GA4, GTM avec tracking
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Process+Automation+Expert;4%2B+Years+Experience)
   
 </div>
 
@@ -49,7 +48,9 @@
 ---
 
 <div align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Process+Automation+Expert;4%2B+Years+Experience)
   
+
   *"4+ ans d'expertise dans la conception et l'automation des process commercials"*
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)

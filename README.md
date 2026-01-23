@@ -39,10 +39,7 @@
 ## Connectons-nous
 
 <div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Lead+Generation;Scraping;Enrichissement;Process+Automation)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasshoudzi/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasshoudzi/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anass-HOUDZI)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anasshoudzi.vercel.app/)
   
@@ -54,6 +51,7 @@
 
   "4+ ans d'expertise dans l'automation des process commercials"
   
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Lead+Generation;Scraping;Enrichissement;Process+Automation)
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anass-HOUDZI&color=blueviolet&style=flat-square)

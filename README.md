@@ -68,10 +68,7 @@
 [![Anatomik](https://github-readme-stats.vercel.app/api/pin/?username=Anass-HOUDZI&repo=anatomik&theme=radical)](https://github.com/Anass-HOUDZI/anatomik)
 [![France Integration Kit](https://github-readme-stats.vercel.app/api/pin/?username=Anass-HOUDZI&repo=france-integration-kit&theme=radical)](https://github.com/Anass-HOUDZI/france-integration-kit)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anass-HOUDZI&color=blueviolet)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anass-HOUDZI&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anass-HOUDZI&layout=compact)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Anass-HOUDZI&theme=radical)
+
 
 </div>
 

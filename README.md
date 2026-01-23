@@ -60,7 +60,7 @@
 
 <div align="center">
   
-  *"Transformer la complexité des données en simplicité actionnable"*
+  *"Curieux et opérationnel, 4+ ans d'expertise dans la conception et l'automation des process qui optimisent les performances commerciales"*
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
   

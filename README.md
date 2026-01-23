@@ -76,27 +76,6 @@
 </div>
 
 
-## 🎯 Expertises Clés
-
-const anassHoudzi = {
-role: "Growth Engineer",
-specializations: [
-"Process Automation",
-"Data Analysis",
-"SEO Tools Development",
-"Growth Hacking"
-],
-technologies: {
-frontend: ["React", "TypeScript", "Tailwind CSS"],
-backend: ["Node.js", "Supabase", "PostgreSQL"],
-tools: ["Vite", "D3.js", "Stripe", "Resend"]
-},
-achievements: {
-experience: "4+ years",
-projects: "9+ repositories",
-focus: "Data-driven growth"
-}
-};
 
 
 ## 🌐 Connectons-nous

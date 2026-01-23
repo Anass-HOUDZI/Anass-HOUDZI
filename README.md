@@ -47,9 +47,6 @@ Setup GA4, GTM avec tracking
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anasshoudzi.vercel.app/)
   
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anass-HOUDZI&color=blueviolet&style=flat-square)
-</div>
-
 ---
 
 <div align="center">
@@ -57,5 +54,9 @@ Setup GA4, GTM avec tracking
   *"Curieux et opérationnel, 4+ ans d'expertise dans la conception et l'automation des process qui optimisent les performances commerciales"*
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anass-HOUDZI&color=blueviolet&style=flat-square)
+</div>
+
   
 </div>

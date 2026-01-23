@@ -52,7 +52,7 @@
 <div align="center">
   
 
-  *"4+ ans d'expertise dans la conception et l'automation des process commercials"*
+  "4+ ans d'expertise dans l'automation des process commercials"
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 

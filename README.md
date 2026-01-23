@@ -15,9 +15,8 @@
 
 ## 🚀 À Propos de Moi
 
-- 🌱 Expert en **Process Automatisés** avec 4+ années d'expérience
+- 🎯 Expert en **Process Automatisés** avec 4+ années d'expérience
 - 💼 Spécialisé en **Growth Engineering** et transformation de données
-- 🎯 Objectif : Révolutionner l'analyse SEO et la croissance digitale
 - 📍 Basé en **France** 🇫🇷
 
 

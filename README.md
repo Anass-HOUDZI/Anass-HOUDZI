@@ -39,6 +39,8 @@
 ## Connectons-nous
 
 <div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Process+Automation+Expert;4%2B+Years+Experience)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasshoudzi/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anass-HOUDZI)
@@ -48,7 +50,6 @@
 ---
 
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Process+Automation+Expert;4%2B+Years+Experience)
   
 
   *"4+ ans d'expertise dans la conception et l'automation des process commercials"*

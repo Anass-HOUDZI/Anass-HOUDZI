@@ -5,9 +5,14 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Anass-HOUDZI&color=blueviolet&style=flat-square)
   
-  ### 📊 Data Driven 
+  ### 📊 Curieux et opérationnel, je transforme la data en croissance mesurable 
   
-  *Curieux et opérationnel, je transforme la data en croissance mesurable*
+  *Mise en place de pipelines automatisés
+
+Développement de scrapers Python pour la lead generation
+
+Setup GA4, GTM avec tracking
+*
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Process+Automation+Expert;4%2B+Years+Experience)
   

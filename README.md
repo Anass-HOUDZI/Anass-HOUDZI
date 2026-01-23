@@ -22,7 +22,7 @@
 
 ## Stack Technique
 
-<div align="center">
+<div>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,7 +38,7 @@
 
 ## Connectons-nous
 
-<div align="center">
+<div>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Lead+Generation;Scraping;Enrichissement;Process+Automation)
   

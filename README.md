@@ -1,11 +1,12 @@
-# Hello 👋, Je suis Anass HOUDZI
+# Hello 👋, 
+je suis Anass HOUDZI
 
 
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Anass-HOUDZI&color=blueviolet&style=flat-square)
   
-  ### 📊 Growth Engineer | Data Transformation Expert
+  ### 📊 Growth Engineer
   
   *Curieux et opérationnel, je transforme la data en croissance mesurable*
   

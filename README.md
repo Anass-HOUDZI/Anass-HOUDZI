@@ -1,4 +1,4 @@
-# 👋, Anass HOUDZI | Growth Engineer
+# 👋, Anass HOUDZI, Growth Engineer
 
 
 <div align="center">

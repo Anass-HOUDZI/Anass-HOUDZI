@@ -44,31 +44,6 @@
 
 </div>
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anass-HOUDZI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anass-HOUDZI&layout=compact&langs_count=7&theme=radical"/>
-  
-</div>
-
-
-
-## 🏆 Projets Phares
-
-<div align="center">
-
-[![PrimeRank](https://github-readme-stats.vercel.app/api/pin/?username=Anass-HOUDZI&repo=primerank&theme=radical)](https://github.com/Anass-HOUDZI/primerank)
-[![Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=Anass-HOUDZI&repo=toolbox&theme=radical)](https://github.com/Anass-HOUDZI/toolbox)
-[![Anatomik](https://github-readme-stats.vercel.app/api/pin/?username=Anass-HOUDZI&repo=anatomik&theme=radical)](https://github.com/Anass-HOUDZI/anatomik)
-[![France Integration Kit](https://github-readme-stats.vercel.app/api/pin/?username=Anass-HOUDZI&repo=france-integration-kit&theme=radical)](https://github.com/Anass-HOUDZI/france-integration-kit)
-
-
-
-</div>
-
-
 
 
 ## 🌐 Connectons-nous

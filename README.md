@@ -1,7 +1,7 @@
 # 👋 Anass HOUDZI, Growth Engineer
 
 
-<div align="center">
+<div>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Anass-HOUDZI&color=blueviolet&style=flat-square)
   

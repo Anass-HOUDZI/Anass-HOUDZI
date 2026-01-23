@@ -51,7 +51,7 @@
 
 <div align="center">
   
-  *"4+ ans d'expertise dans la conception et l'automation des process qui optimisent les performances commerciales"*
+  *"4+ ans d'expertise dans la conception et l'automation des process commercials"*
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 

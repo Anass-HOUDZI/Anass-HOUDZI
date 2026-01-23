@@ -1,4 +1,4 @@
-# 👋 Anass HOUDZI, Growth Engineer
+# 👋 Anass Houdzi, Growth Engineer
 
 
 <div>
@@ -16,7 +16,7 @@
 
 - Expert en **Process Automatisés**
 - Spécialisé en **Growth Engineering** et **Transformation de données**
-- Basé en **France*🇫🇷* 
+- Basé en **France*🇫🇷** 
 
 
 

@@ -15,8 +15,8 @@
 
 ## 🚀 À Propos de Moi
 
-- 🎯 Expert en **Process Automatisés** avec 4+ années d'expérience
-- 💼 Spécialisé en **Growth Engineering** et transformation de données
+- 🎯 Expert en **Process Automatisés**
+- 💼 Spécialisé en **Growth Engineering** et **Transformation de données**
 - 📍 Basé en **France** 🇫🇷
 
 

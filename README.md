@@ -12,7 +12,7 @@
   
 </div>
 
-## À Propos de Moi
+## À propos de moi
 
 - Expert en **Process Automatisés**
 - Spécialisé en **Growth Engineering** et **Transformation de données**
@@ -20,7 +20,7 @@
 
 
 
-## Stack Technique
+## Stack technique
 
 <div align= "center">
 

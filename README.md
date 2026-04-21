@@ -40,7 +40,7 @@
 
   "4+ ans d'expertise dans l'automation des process commercials"
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analyst;Lead+Generation;Scraping;Enrichissement;Process+Automation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Growth+Engineer;Data+Analysis;Lead+Generation;Webscraping;Enrichissement;Process+Automation)
   
 
 

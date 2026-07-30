@@ -1,7 +1,6 @@
+# 👋 Anass Houdzi
 
 <h3 align="center">🛠 Tech Stack & Web Development</h3>
-
-# 👋 Anass Houdzi
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -22,4 +21,12 @@
   <img src="https://img.shields.io/badge/Lemlist-133DF6?style=for-the-badge&logo=lemlist&logoColor=white" alt="Lemlist">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query">
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anasshoudzi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>

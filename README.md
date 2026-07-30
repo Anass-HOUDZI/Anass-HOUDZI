@@ -15,18 +15,11 @@
 <h3 align="center">🚀 Growth Engineering & Data Automation</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot">
   <img src="https://img.shields.io/badge/Apify-97CA00?style=for-the-badge&logo=apify&logoColor=white" alt="Apify">
   <img src="https://img.shields.io/badge/Lemlist-133DF6?style=for-the-badge&logo=lemlist&logoColor=white" alt="Lemlist">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query">
 </p>
 
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anasshoudzi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
